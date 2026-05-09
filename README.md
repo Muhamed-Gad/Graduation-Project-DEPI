@@ -38,7 +38,7 @@ This dashboard provides automated and interactive reporting for:
 
 ## Data Model
 
-![Data Model](Dashboard%20Screenshots/data-model.png)
+![Data Model](Dashboard%20Screenshots/Data%20Model.png)
 
 ---
 
