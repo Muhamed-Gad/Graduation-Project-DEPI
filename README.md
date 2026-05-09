@@ -45,19 +45,19 @@ This dashboard provides automated and interactive reporting for:
 ## Dashboard Pages
 
 ### Executive Summary
-![Executive Summary](Dashboard%20Screenshots/executive-summary.png)
+![Executive Summary](Dashboard%20Screenshots/Executive%20Summary.png)
 
 ### Financial Position
-![Financial Position](Dashboard%20Screenshots/financial-position.png)
+![Financial Position](Dashboard%20Screenshots/Financial%20Position.png)
 
 ### Demographics
-![Demographics](Dashboard%20Screenshots/demographics.png)
+![Demographics](Dashboard%20Screenshots/Demographics.png)
 
 ### Seasonality
-![Seasonality](Dashboard%20Screenshots/seasonality.png)
+![Seasonality](Dashboard%20Screenshots/Seasonality.png)
 
 ### Details Page
-![Details](Dashboard%20Screenshots/details-page.png)
+![Details](Dashboard%20Screenshots/Details.png)
 
 ---
 
